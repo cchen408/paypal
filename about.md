@@ -23,6 +23,7 @@ Currently I manage 4 typhon services. I was the first to get ECI Compliance for 
 
 - [Developer Blogs](https://github.paypal.com/pages/chrichen/)
 - [Async Await in Typhon](https://github.paypal.com/pages/chrichen/node/2018/01/04/typhon-async-await.html)
+- [Async Await Error Handling](https://github.paypal.com/pages/chrichen/node/2018/01/04/async-await-error-handling.html)
 
 ## Innovation Lab
 
