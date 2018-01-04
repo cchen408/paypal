@@ -22,8 +22,7 @@ Currently I manage 4 typhon services. I was the first to get ECI Compliance for 
 ### Blogs
 
 - [Developer Blogs](https://github.paypal.com/pages/chrichen/)
-- [Async Await in Typhon](https://github.paypal.com/pages/chrichen/node.js/2018/12/12/typhon-async-await.html)
-- [Wrapping Async Functions](https://github.paypal.com/pages/chrichen/node.js/2018/12/12/wrap-async.html)
+- [Async Await in Typhon](https://github.paypal.com/pages/chrichen/node/2018/01/04/typhon-async-await.html)
 
 ## Innovation Lab
 
@@ -36,7 +35,7 @@ Currently I manage 4 typhon services. I was the first to get ECI Compliance for 
 
 ### Personal projects
 
-- [cryptopuppies](https://github.com/cchen408/cryptopuppies)
+- [cryptopuppies](https://github.com/cryptopuppies)
 
 
 ### Tutorials and Examples
