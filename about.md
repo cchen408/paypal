@@ -30,6 +30,7 @@ Currently I manage 4 typhon services. I was the first to get ECI Compliance for 
 ### Tech Talks
 
 - [Cryoto Trading 101](https://pp.circlehd.com/play/Cryptocurrency-Trading-101-ry_Pj_o0W) 
+- [Crypto Currency Storage](https://pp.circlehd.com/play/Blockchain-Storing-Cryptocurrencies-on-Hard-Ledger-ByyJXVGIM) 
 - #cryptotraders slack channel
 
 ## Open-source
