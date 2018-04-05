@@ -18,6 +18,14 @@ Currently I manage 4 typhon services. I was the first to get ECI Compliance for 
 - [visitorprofilenodeserv](https://github.paypal.com/Customers-R/visitorprofilenodeserv)
 - [merchcatalognodeserv](https://github.paypal.com/Customers-R/merchcatalognodeserv)
 - [merchtaxnodeserv](https://github.paypal.com/Customers-R/merchtaxnodeserv)
+- [pp-couchbase](https://github.paypal.com/chrichen/pp-couchbase) - paypal couchbase module
+
+### Blockchain Projects At PayPal
+
+- [Blockchain Social Innovation Smart Contracts](https://github.paypal.com/bcsi/bcsi-contracts)
+- [Blockchain Social Innovation API](https://github.paypal.com/bcsi/bcsinodeserv)
+- [OneToken Smart Contracts]()
+- [OneToken API](https://github.paypal.com/InnovationLab/onetokennodeserv)
 
 ### Blogs
 
@@ -29,8 +37,10 @@ Currently I manage 4 typhon services. I was the first to get ECI Compliance for 
 
 ### Tech Talks
 
-- [Cryoto Trading 101](https://pp.circlehd.com/play/Cryptocurrency-Trading-101-ry_Pj_o0W) 
-- [Crypto Currency Storage](https://pp.circlehd.com/play/Blockchain-Storing-Cryptocurrencies-on-Hard-Ledger-ByyJXVGIM) 
+- 11/3/2017 [Cryoto Trading 101](https://pp.circlehd.com/play/Cryptocurrency-Trading-101-ry_Pj_o0W) - Innovation Lab
+- 2/1/2018 [Crypto Currency Storage](https://pp.circlehd.com/play/Blockchain-Storing-Cryptocurrencies-on-Hard-Ledger-ByyJXVGIM) - Innovation Lab 
+- 2/13/2018 [Intro to Blockchain](https://paypal.box.com/s/cmhbw9yhfd4bzvp3k3d6kc4qc1wugftf) - Tech Talk Tuesdays 
+- 3/29/2018 [Ethereum Dev and Blockhain @ PP](https://paypal.box.com/s/4dcf64hpt50dc5yfrkegbdtai1rdbjgy) PayPal Tech Meetup 
 - #cryptotraders slack channel
 
 ## Open-source
