@@ -27,4 +27,4 @@ github_username:  cchen408
 repository: cchen408/cchen408.github.io
 # Build settings
 markdown: kramdown
-#theme: minima
+theme: minima
