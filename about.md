@@ -64,7 +64,8 @@ Currently I manage 4 typhon services. I was the first to get ECI Compliance for 
 - All employees will have oneToken and will be able to pay or get paid from any employee. 
 - These tokens will be used to redeem different perks and experiences such as lunch with Dan or having Mike Todasco wash your car. 
 
-### [Dine In](https://github.paypal.com/ar-trailblazers/dineIn) – AR to help with ordering
+**Dine In – AR to help with ordering**
+- [Github](https://github.paypal.com/ar-trailblazers/dineIn)
 - Augmented Reality to show you 3d images of the actual food  
 - Can translate the menu for you if it's in another language 
 - Using a unique identifying mark it will bring up the 3D image. 
