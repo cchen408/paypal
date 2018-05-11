@@ -35,16 +35,22 @@ Currently I manage 4 typhon services. I was the first to get ECI Compliance for 
 
 ## Innovation Lab
 
-### Tech Talks
+### Events
 
 - 11/3/2017 [Cryoto Trading 101](https://pp.circlehd.com/play/Cryptocurrency-Trading-101-ry_Pj_o0W) - Innovation Lab
   - Started the #cryptotraders slack channel after our first talk
 - 2/1/2018 [Crypto Currency Storage](https://pp.circlehd.com/play/Blockchain-Storing-Cryptocurrencies-on-Hard-Ledger-ByyJXVGIM) - Innovation Lab 
-- 2/13/2018 [Intro to Blockchain](https://paypal.box.com/s/cmhbw9yhfd4bzvp3k3d6kc4qc1wugftf) - Tech Talk Tuesdays 
-- 3/29/2018 [Ethereum Dev and Blockhain @ PP](https://paypal.box.com/s/4dcf64hpt50dc5yfrkegbdtai1rdbjgy) PayPal Tech Meetup 
+- 2/13/2018 [Intro to Blockchain](https://paypal.box.com/s/cmhbw9yhfd4bzvp3k3d6kc4qc1wugftf) - Tech Talk Tuesdays
+- 3/1/2018 Lunar New Year Celebration 2018
+  - Part of the committee that helped organize and plan the celebration of 2018
+  - Master of Ceremony with Kelly An.
+  - Sang and rapped with Kelly An and Calanthia Mei. [lyrics](https://paypal.box.com/s/zps5geym0nv1xmenxqylkb1vwa35r0zf)
+- 3/29/2018 [Ethereum Dev and Blockhain @ PP](https://paypal.box.com/s/4dcf64hpt50dc5yfrkegbdtai1rdbjgy) PayPal Tech Meetup (Chinese)
+- 5/10/2018 [Ethereum and Javascript](https://paypal.box.com/s/4ze0gn48a785d8gr7bmh6q22xnxdd18o) JS@PayPal 2018
+  - [Speaker Interview](https://engineering.paypalcorp.com/blog/jspaypal-2018-speaker-interview-series-meet-christopher-chen/) -Introduction 
 
 ### Blockchain @ PayPal
-- BCSI Project [smart contract git](https://github.paypal.com/bcsi/bcsi-contracts) [node server git](https://github.paypal.com/bcsi/bcsinodeserv)
+- BCSI Project [contract](https://github.paypal.com/bcsi/bcsi-contracts) [service](https://github.paypal.com/bcsi/bcsinodeserv)
  - Using the ethereum network we issue an ERC-721 token (CryptoKitties) and simulate the movement of the donation as it changes hands
  - Transparency to donations
  - Use a typhon app to act as a wrapper for making calls to the blockchain.

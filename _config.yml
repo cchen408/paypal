@@ -17,14 +17,14 @@ title: Developer Blogs
 author: Christopher Chen
 about: Node Angular Blockchain
 email: cchen408@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: Adventures of an engineer at PayPal # > this means to ignore newlines until "baseurl:"
 #baseurl: "" # the subpath of your site, e.g. /blog
-baseurl: ""
-url: "" # the base hostname & protocol for your site
+baseurl: "/pages/chrichen"
+url: "https://github.paypal.com/" # the base hostname & protocol for your site
 #url: "https://localhost:4000"
 twitter_username: cchen408
-github_username:  cchen408
-repository: cchen408/cchen408.github.io
+github_username:  chrichen
+repository: chrichen/chrichen.github.io
 # Build settings
 markdown: kramdown
 theme: minima
