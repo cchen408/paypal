@@ -50,19 +50,22 @@ Currently I manage 4 typhon services. I was the first to get ECI Compliance for 
   - [Speaker Interview](https://engineering.paypalcorp.com/blog/jspaypal-2018-speaker-interview-series-meet-christopher-chen/) -Introduction 
 
 ### Blockchain @ PayPal
-- BCSI Project [contract](https://github.paypal.com/bcsi/bcsi-contracts) [service](https://github.paypal.com/bcsi/bcsinodeserv)
- - Using the ethereum network we issue an ERC-721 token (CryptoKitties) and simulate the movement of the donation as it changes hands
- - Transparency to donations
- - Use a typhon app to act as a wrapper for making calls to the blockchain.
- - Sponsored by Edwin Aoki.
 
-### OneToken– PayPal's first crypto air drop
-- Revamp the process in which we reward people for submitting ideas. (git) 
+**PayPal Donation Tracker (BCSI)**
+- git: [contract](https://github.paypal.com/bcsi/bcsi-contracts), [service](https://github.paypal.com/bcsi/bcsinodeserv)
+- Using the ethereum network we issue an ERC-721 token (CryptoKitties) and simulate the movement of the donation as it changes hands
+- Transparency to donations
+- Use a typhon app to act as a wrapper for making calls to the blockchain.
+- Sponsored by Edwin Aoki.
+
+**OneToken – PayPal's first crypto air drop**
+- git: [contract](https://github.paypal.com/InnovationLab/woocoin) [service](https://github.paypal.com/InnovationLab/woocoin-api)
+- Revamp the process in which we reward people for submitting ideas. 
 - All employees will have oneToken and will be able to pay or get paid from any employee. 
 - These tokens will be used to redeem different perks and experiences such as lunch with Dan or having Mike Todasco wash your car. 
 
-### Dine In – AR to help with ordering 
-- Augmented Reality to show you 3d images of the actual food (git) 
+### [Dine In](https://github.paypal.com/ar-trailblazers/dineIn) – AR to help with ordering
+- Augmented Reality to show you 3d images of the actual food  
 - Can translate the menu for you if it's in another language 
 - Using a unique identifying mark it will bring up the 3D image. 
 
