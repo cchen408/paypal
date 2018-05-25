@@ -45,9 +45,13 @@ Currently I manage 4 typhon services. I was the first to get ECI Compliance for 
   - Part of the committee that helped organize and plan the celebration of 2018
   - Master of Ceremony with Kelly An.
   - Sang and rapped with Kelly An and Calanthia Mei. [lyrics](https://paypal.box.com/s/zps5geym0nv1xmenxqylkb1vwa35r0zf)
-- 3/29/2018 [Ethereum Dev and Blockhain @ PP](https://paypal.box.com/s/4dcf64hpt50dc5yfrkegbdtai1rdbjgy) PayPal Tech Meetup (Chinese)
-- 5/10/2018 [Ethereum and Javascript](https://paypal.box.com/s/4ze0gn48a785d8gr7bmh6q22xnxdd18o) JS@PayPal 2018
-  - [Speaker Interview](https://engineering.paypalcorp.com/blog/jspaypal-2018-speaker-interview-series-meet-christopher-chen/) -Introduction 
+- 3/29/2018 [Ethereum Dev and Blockhain @ PP](https://paypal.box.com/s/4dcf64hpt50dc5yfrkegbdtai1rdbjgy) - PayPal Tech Meetup (Chinese)
+- 5/10/2018 [Ethereum and Javascript](https://paypal.box.com/s/4ze0gn48a785d8gr7bmh6q22xnxdd18o) - JS@PayPal 2018
+  - Featured in PayPal's Internal Technology Blog - [Meet Christopher Chen](https://engineering.paypalcorp.com/blog/jspaypal-2018-speaker-interview-series-meet-christopher-chen/) 
+- 5/24/2018 [Blockchain Social Innovation - PayPal Donation Tracker]() Innovation Lab
+  - Presentation [Deck](https://paypal.box.com/s/6h96k4wlldp86iidjy8rvj8ordrbjr7p)
+  - Presentation [Video](https://pp.circlehd.com/play/Blockchain-Social-Innovation-BCSI-Prototype-Demo-and-QandA-S1p4CpS1Q)
+  - Screenshots: ![chris]('')
 
 ### Blockchain @ PayPal
 
