@@ -14,24 +14,36 @@ Currently I manage 4 typhon services. I was the first to get ECI Compliance for 
 
 ### Maintainer (or Core Contributor)
 
+#### Merchant Services Team
 - [tagmanagernodeserv](https://github.paypal.com/chrichen/tagmanagernodeserv)
 - [visitorprofilenodeserv](https://github.paypal.com/Customers-R/visitorprofilenodeserv)
 - [merchcatalognodeserv](https://github.paypal.com/Customers-R/merchcatalognodeserv)
 - [merchtaxnodeserv](https://github.paypal.com/Customers-R/merchtaxnodeserv)
+
+#### PayPal
 - [pp-couchbase](https://github.paypal.com/chrichen/pp-couchbase) - paypal couchbase module
+- [pp-couchbase](https://github.paypal.com/chrichen/pp-couchbase) - cal-formatter
+- [pp-couchbase](https://github.paypal.com/chrichen/pp-couchbase) - paypal errors
 
-### Blockchain Projects At PayPal
+#### External Contributions for PayPal Requirements
+Request Package
+- added support for proxy
 
+#### Blockchain @ PayPal
+
+**BCSI**
 - [Blockchain Social Innovation Smart Contracts](https://github.paypal.com/bcsi/bcsi-contracts)
 - [Blockchain Social Innovation API](https://github.paypal.com/bcsi/bcsinodeserv)
 - [OneToken Smart Contracts]()
 - [OneToken API](https://github.paypal.com/InnovationLab/onetokennodeserv)
 
-### Blogs
+#### Blogs
 
 - [Developer Blogs](https://github.paypal.com/pages/chrichen/)
 - [Async Await in Typhon](https://github.paypal.com/pages/chrichen/node/2018/01/04/typhon-async-await.html)
 - [Async Await Error Handling](https://github.paypal.com/pages/chrichen/node/2018/01/04/async-await-error-handling.html)
+
+# Achievements
 
 ## Innovation Lab
 
@@ -56,7 +68,12 @@ Currently I manage 4 typhon services. I was the first to get ECI Compliance for 
     - Donation Dashboard: ![donation dashboard](https://github.paypal.com/raw/chrichen/chrichen.github.paypal.com/master/assets/img/donation-dashboard.png?token=AABQRBF2R3_g4ARZ4cSm1-dPpUdzBioPks5bEZpzwA%3D%3D)
     - Donation Status: ![donation status](https://github.paypal.com/raw/chrichen/chrichen.github.paypal.com/master/assets/img/donation-status.png?token=AABQRJMr2dIVke1WdBwgzfkoncXZVofAks5bEZqVwA%3D%3D)
     - Ethereum Transaction Details: ![ethereum transaction details](https://github.paypal.com/raw/chrichen/chrichen.github.paypal.com/master/assets/img/tx-details.png?token=AABQRHUcF5IO4VZzRkw1uQBwbUYvFlbBks5bEZwYwA%3D%3D)
-
+- 6/14/2018 [Meeting with ](https://paypal.box.com/s/4dcf64hpt50dc5yfrkegbdtai1rdbjgy) - PayPal Tech Meetup (Chinese)
+- 10/20/2018 Money 2020 Hackathon 
+  - Kidbank 
+  - $15,000 top prize winner
+  - Synchrony runner up prize winner
+  
 ### Blockchain @ PayPal
 
 **PayPal Donation Tracker (BCSI)**
