@@ -77,6 +77,7 @@ Request Package
   - Kidbank 
   - $15,000 top prize winner
   - Synchrony runner up prize winner
+  - [Hackathon Winners Presentation](https://pp.circlehd.com/play/Money-2020-Hackathon-Winners-Presentations-and-Discussion-ry0EM0u3Q)
   
 ### Blockchain @ PayPal
 
