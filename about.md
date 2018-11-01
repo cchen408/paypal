@@ -69,6 +69,9 @@ Request Package
     - Donation Status: ![donation status](https://github.paypal.com/raw/chrichen/chrichen.github.paypal.com/master/assets/img/donation-status.png?token=AABQRJMr2dIVke1WdBwgzfkoncXZVofAks5bEZqVwA%3D%3D)
     - Ethereum Transaction Details: ![ethereum transaction details](https://github.paypal.com/raw/chrichen/chrichen.github.paypal.com/master/assets/img/tx-details.png?token=AABQRHUcF5IO4VZzRkw1uQBwbUYvFlbBks5bEZwYwA%3D%3D)
 - 6/14/2018 [Meeting with ](https://paypal.box.com/s/4dcf64hpt50dc5yfrkegbdtai1rdbjgy) - PayPal Tech Meetup (Chinese)
+- 10/01/2018 [WoW](https://sway.office.com/SiJmb30YGLeVcaXl) - WoW Launches
+  - Lead Backend Developer
+  - [WoW Portal](https://go/wow)
 - 10/20/2018 Money 2020 Hackathon 
   - Kidbank 
   - $15,000 top prize winner
