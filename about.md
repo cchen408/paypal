@@ -12,6 +12,8 @@ I am a software engineer within Merchant Services focused on typhon (nodejs midt
 
 Currently I manage 4 typhon services. I was the first to get ECI Compliance for a typhon service and also the first to upgrade to Node 6 and then Node 8 moving from callbacks to bluebird coroutines to async await.
 
+I am also core contributor for 1 Raptor Rest Service personalizedataserv and secondary on a Raptor Message Daemon kafkamerchantservicesd, primary for merchanttoolserv also.
+
 ### Maintainer (or Core Contributor)
 
 #### Merchant Services Team
@@ -19,6 +21,9 @@ Currently I manage 4 typhon services. I was the first to get ECI Compliance for 
 - [visitorprofilenodeserv](https://github.paypal.com/Customers-R/visitorprofilenodeserv)
 - [merchcatalognodeserv](https://github.paypal.com/Customers-R/merchcatalognodeserv)
 - [merchtaxnodeserv](https://github.paypal.com/Customers-R/merchtaxnodeserv)
+- [merchtoolserv]()
+- [personalizedataserv]()
+- [kafkamerchantservicesd]()
 
 #### PayPal
 - [pp-couchbase](https://github.paypal.com/chrichen/pp-couchbase) - paypal couchbase module
@@ -100,6 +105,58 @@ Request Package
 - Can translate the menu for you if it's in another language 
 - Using a unique identifying mark it will bring up the 3D image. 
 
+
+## Merchant Services
+
+### 2017
+
+
+### 2018
+
+
+Mentored the new engineers on the team and provided them support.
+
+Delivered Product Eligibility Endpoint for Muse Team.
+
+Created third party scopes for Product Eligibility Feature.
+
+Worked on getting SQUID external proxy to make calls to akamai from the midtier.
+
+Delivered Opt-Out functionality for Muse Team Transaction Cart Recovery
+
+First feature written for MerchantToolServ to support the RAAS team.
+
+Began to learn java and raptor. Became lead for the Muse for LE Identity track.
+
+Owner of personalizedataserv and secondary on kafkamerchantservicesd.
+
+Worked with a unique oAuth flow for Jetlore to get customer consent for 3rd party scopes.
+
+Owned entire flow for service from ppaas, to db, to externalization, to data movement ticket.
+
+Worked extensively with DBA's and began to create and use Oracle.
+
+2019
+
+## Jetlore
+**Services: personalizedataserv, kafkamerchantservicesd**  
+First project as a lead. First time creating a Raptor Service and Raptor Daemon. Project involved multiple domains and multiple teams. Worked with Architect to brainstorm different approaches before executing on the agreed approach. The project required us to move over a billion records from PAZ to HRZ, we worked closely with Jetlore, DMR, and Kafka Team and was able to successfully complete the initial data load as well as a continued daily ingestion of new records through the pipeline setup through this project. Will who was also on this project did really good work. We worked closely and I tried my best to help him through anything blocking him as well as try to keep good conventions from my own research. Worked closely with the RPS team as well to make the rest of the data Jetlore needed available through their APIs and from our Oracle datastore as well. Able to deliver with short timeline with working with all new technologies and stacks.
+
+
+## Visitor Interaction Data Platform
+Lead the charge when Dinny had the idea of creating the visitor interaction data platform, setting up and facilitating cross team brainstorms. It was while brainstorming with the FPTI, Experimentation, and MUSE teams that our drop off detection idea gained traction and has now become a critical portion of PayPal Shopping Platform.
+
+
+
+## Transactional Cart Recovery
+**Services: tagmanagernodeserv**  
+The initial launch of TCR opted all of our customers in with no way to opt out. They needed a short term solution while waiting for the permanent solution to be implemented. This required two new tables to be created in Oracle and a new endpoint to keep track of customers that have opted in or opted out for muse products.
+
+
+
+Store Cash Win Back
+**Services: kafkamerchantservicesd**  
+Deliver a new consumer for a kafka topic that will call a service to send out PayPal Shopping Store Cash Win Back emails.
 
 ### Personal projects
 
