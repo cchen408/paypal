@@ -158,6 +158,14 @@ Store Cash Win Back
 **Services: kafkamerchantservicesd**  
 Deliver a new consumer for a kafka topic that will call a service to send out PayPal Shopping Store Cash Win Back emails.
 
+
+2020
+
+## Walmart Connect Migration (Jan)
+* First front end nodeweb project within paypal.
+* Pair programmed with more junior team member and supported when needed.
+* Migrate walmart connect eligibiity check and InEligible page to React component. (activationnodeweb -> merchanthubnodeweb)
+
 ### Personal projects
 
 ### CryptoPuppies
