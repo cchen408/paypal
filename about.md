@@ -162,9 +162,17 @@ Deliver a new consumer for a kafka topic that will call a service to send out Pa
 2020
 
 ## Walmart Connect Migration (Jan)
-* First front end nodeweb project within paypal.
+* My first front end nodeweb project within paypal.
 * Pair programmed with more junior team member and supported when needed.
 * Migrate walmart connect eligibiity check and InEligible page to React component. (activationnodeweb -> merchanthubnodeweb)
+
+## Wish Partner Connect (Feb)
+* Add wish as a partner to sell tab, feature tab experience, and into new app center
+* Gained experience on working with personalization studio. 
+
+## Sync with PayPal
+* Give guidance to team member regarding mapper design. https://github.paypal.com/yodou/generic-ppcp-transformer (feb)
+*  
 
 ### Personal projects
 
