@@ -165,10 +165,12 @@ Deliver a new consumer for a kafka topic that will call a service to send out Pa
 * My first front end nodeweb project within paypal.
 * Pair programmed with more junior team member and supported when needed.
 * Migrate walmart connect eligibiity check and InEligible page to React component. (activationnodeweb -> merchanthubnodeweb)
+* https://github.paypal.com/Customers-R/merchanthubnodeweb/pull/558
 
 ## Wish Partner Connect (Feb)
-* Add wish as a partner to sell tab, feature tab experience, and into new app center
-* Gained experience on working with personalization studio. 
+* Add wish as a partner to sell tab, feature tab experience, and into new app center (https://github.paypal.com/Customers-R/merchanthubnodeweb/pull/546)
+* Gained experience on working with personalization studio.
+* Refactor to make connect link env aware (https://github.paypal.com/Customers-R/merchanthubnodeweb/pull/582/files) 
 
 ## Sync with PayPal
 * Give guidance to team member regarding mapper design. https://github.paypal.com/yodou/generic-ppcp-transformer (feb)
