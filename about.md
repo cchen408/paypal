@@ -136,7 +136,7 @@ Owned entire flow for service from ppaas, to db, to externalization, to data mov
 
 Worked extensively with DBA's and began to create and use Oracle.
 
-2019
+# 2019
 
 ## Jetlore
 **Services: personalizedataserv, kafkamerchantservicesd**  
@@ -159,7 +159,7 @@ Store Cash Win Back
 Deliver a new consumer for a kafka topic that will call a service to send out PayPal Shopping Store Cash Win Back emails.
 
 
-2020
+# 2020
 
 ## Walmart Connect Migration (Jan)
 * My first front end nodeweb project within paypal.
