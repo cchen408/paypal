@@ -168,13 +168,57 @@ Deliver a new consumer for a kafka topic that will call a service to send out Pa
 * https://github.paypal.com/Customers-R/merchanthubnodeweb/pull/558
 
 ## Wish Partner Connect (Feb)
-* Add wish as a partner to sell tab, feature tab experience, and into new app center (https://github.paypal.com/Customers-R/merchanthubnodeweb/pull/546)
-* Gained experience on working with personalization studio.
-* Refactor to make connect link env aware (https://github.paypal.com/Customers-R/merchanthubnodeweb/pull/582/files) 
+* Add wish as a partner to sell tab, feature tab experience (https://github.paypal.com/Customers-R/merchanthubnodeweb/pull/546)
+* Upload all wish assets to the paypal objects using CDNX. 
+* Add wish into the new app center using personalization studio.
+* Refactor to make connect link env aware (https://github.paypal.com/Customers-R/merchanthubnodeweb/pull/582/files)
+* Lead remaining front end efforts for Wish going live with the legal approved content and handled ramp to 100% over 7 days.
+* Made updates to Wish content due to current situation with COVID-19. 
+ 
 
 ## Sync with PayPal
-* Give guidance to team member regarding mapper design. https://github.paypal.com/yodou/generic-ppcp-transformer (feb)
-*  
+* Give guidance to team member regarding mapper design. https://github.paypal.com/yodou/generic-ppcp-transformer (Feb)
+
+## Connect with eBay
+* Begin to lead eBay initiative with setting up production app and doing due diligence in api limits, legal, etc (march)
+* Help with sprint planning, writing stories, making sure we are on track.x 
+* Research and test partner token management for our use case. (March)
+* Build ebay oauth module as part of demo [#1](https://github.paypal.com/WCHIU/partnerdatademonodeweb/pull/1) (March)
+* Build identity partner token management service module (March)
+  * Refactor with config [#7](https://github.paypal.com/merchant-services/partner-token-management/pull/7)
+* Begin work on [channelconnectnodeweb](https://engineering.paypalcorp.com/altus/app/channelconnectnodeweb/detail/appinfo) (April)
+* Complete and publish ebay oauth module  [ [repo](https://github.paypal.com/merchant-services/agora/tree/develop/packages/agora-ebay-oauth) ]  [ [pull request](https://github.paypal.com/merchant-services/agora/pull/2) ] (April)
+* Complete and publish identity partner token management module  [ [repo](https://github.paypal.com/merchant-services/partner-token-management) ]  [ [pull request](https://github.paypal.com/merchant-services/partner-token-management/pull/1) ] (April)
+* Ebay Oauth Module [separate repo](https://github.paypal.com/merchant-services/ebay-oauth)
+* errors-pp module [errors-paypal](https://github.paypal.com/merchant-services/errors-paypal)
+  * v2 published and implemented in channelconnectnodeserv
+  * v2.1 added to add the ability to add your own errors along with validation
+* target-segment module v1.0.0 [pullrequest](https://github.paypal.com/MerchantEngineering/target-segment/pull/9)
+* logger-helper module v3 [repo](https://github.paypal.com/merchant-services/logger-helper)
+
+#### ChannelConnectNodeServ     
+* Begin work on [channelconnectnodeserv](https://github.paypal.com/Customers-R/channelconnectnodeserv) (May)
+
+#### Async Handler
+* publish module [async-handler](https://github.paypal.com/merchant-services/async-handler) to make swaggerize routes able to handle async functions.
+
+
+## Google Shopping Connect (April)
+* Add google as a partner to sell tab, feature tab experience etc
+* Work with product to ensure google connect is properly setup
+* Work with professional services for any issues Google experienced
+* Create [dashboard](https://engineering.paypalcorp.com/searchserv-dashboard/fpti/goto/7fa8250e35765951251d523ff60bc0cd) 
+
+## Clean Coding Sessions
+* Begin sessions end of 2019
+* Work with Will Chiu to find speakers and presenters on interesting topics
+  * Jest 
+  * React Hooks
+  
+## Typhon Template
+* remove platformheaders middleware from development.json [#73](https://github.paypal.com/NodeInfra/nodejsmidtier-template-app/pull/73)
+* fix(npm): fix regenerate script [#74](https://github.paypal.com/NodeInfra/nodejsmidtier-template-app/pull/74)
+
 
 ### Personal projects
 
