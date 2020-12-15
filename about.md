@@ -203,22 +203,44 @@ Deliver a new consumer for a kafka topic that will call a service to send out Pa
 * publish module [async-handler](https://github.paypal.com/merchant-services/async-handler) to make swaggerize routes able to handle async functions.
 
 
-## Google Shopping Connect (April)
+### Google Shopping Connect (April)
 * Add google as a partner to sell tab, feature tab experience etc
 * Work with product to ensure google connect is properly setup
 * Work with professional services for any issues Google experienced
 * Create [dashboard](https://engineering.paypalcorp.com/searchserv-dashboard/fpti/goto/7fa8250e35765951251d523ff60bc0cd) 
 
-## Clean Coding Sessions
+### Clean Coding Sessions
 * Begin sessions end of 2019
 * Work with Will Chiu to find speakers and presenters on interesting topics
   * Jest 
   * React Hooks
+* Present on Postman Enterprise Topic
   
-## Typhon Template
+### Typhon Template
 * remove platformheaders middleware from development.json [#73](https://github.paypal.com/NodeInfra/nodejsmidtier-template-app/pull/73)
 * fix(npm): fix regenerate script [#74](https://github.paypal.com/NodeInfra/nodejsmidtier-template-app/pull/74)
 
+### OTSS 
+* connect link implementation to solve cancel contingency url 
+* Risk score testing, finding, documentation
+* UserInfo API testing
+
+## Data API - Unified Transaction Initiative
+
+* Step up and fill in for manager while he was out
+* Implement best practicing from learnings from previous projects
+* Implement suggestions from Mentors
+
+
+### UnifiedTxnNodeServ
+* 100% test coverage
+* Jenkins Pipeline
+* 
+
+### Atmosphere Braintree
+* 
+
+---
 
 ### Personal projects
 
