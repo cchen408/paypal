@@ -240,9 +240,10 @@ Deliver a new consumer for a kafka topic that will call a service to send out Pa
 ### Atmosphere Braintree
 * Unified Token Login
 
-# Medical Leave
 
-## end of 2021 to 2022
+#Sept 2020 - 2021
+
+## Medical Leave
 
 * Totaled my car and got a concussion 9/2020
 * Tested Positive for COVID 12/2020
