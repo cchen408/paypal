@@ -238,7 +238,37 @@ Deliver a new consumer for a kafka topic that will call a service to send out Pa
 * 
 
 ### Atmosphere Braintree
-* 
+* Unified Token Login
+
+# Medical Leave
+
+## end of 2021 to 2022
+
+* Totaled my car and got a concussion 9/2020
+* Tested Positive for COVID 12/2020
+* Dealt with COVID Long Hauler all of 2021
+* Returned to work at 50% on 2/10/2022
+* Moved up to 75% 3/17
+* Should be 100% 4/14 hopefully
+
+# Feb 2022
+
+## Insights and Custom Reporting
+
+### InsightsNodeWeb
+This repository was passed on to us from another team, unfortunately most of the people who created this service are no longer with us.
+
+* Rewrite git history to remove sensitive information. 
+  - Someone previously had committed a signature into the code and it was caught and flagged by infosec.
+  - Worked closely with John Palomino (jpalomino@paypal.com) on the Git Side and with Diane Perez (dianperez@paypal.com) on the Data Security Side
+  - Wrote a confluence page to assist other users in the future: [How to Use BFG or git filter-repo to Remove Sensitive Data From Git History](https://engineering.paypalcorp.com/confluence/display/~chrichen/How+to+Use+BFG+or+git+filter-repo+to+Remove+Sensitive+Data+From+Git+History)
+* Got CI admin access for team to assist in SonarQube issue after the git history fix.
+* Add prettier for formatting ([Pull Request](https://github.paypal.com/Customers-R/insightsnodeweb/pull/1527))
+  - The repo was really difficult to navigate as there was no proper conventions set. It slowed the team down drastically.
+* Checkout Insights fix
+  - Work with GDS (Karteek Chada) to get test data
+  - Work with backend team (Santhosh Padinjarepu spadinjarepurakk@paypal.com) to verify fix
+  - 
 
 ---
 
