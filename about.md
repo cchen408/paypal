@@ -259,6 +259,9 @@ Deliver a new consumer for a kafka topic that will call a service to send out Pa
 ### InsightsNodeWeb
 This repository was passed on to us from another team, unfortunately most of the people who created this service are no longer with us.
 
+* Made lead for this track after 2 sprints. 
+  - Started working with Madhusudhan Sangam msangam@paypal.com and Samiuddin Mohammed samimohammed@paypal.com.
+
 * Rewrite git history to remove sensitive information. 
   - Someone previously had committed a signature into the code and it was caught and flagged by infosec.
   - Worked closely with John Palomino (jpalomino@paypal.com) on the Git Side and with Diane Perez (dianperez@paypal.com) on the Data Security Side
