@@ -274,6 +274,24 @@ This repository was passed on to us from another team, unfortunately most of the
   - Work with backend team (Santhosh Padinjarepu spadinjarepurakk@paypal.com) to verify fix
   - 
 
+## Innovation Hours
+
+### Introduction 4/1/2022
+* Restarted Innovation hours for our team. 
+* https://engineering.paypalcorp.com/confluence/display/~chrichen/Innovation+Hours
+* Had Mike Todasco come do an intro and also lead a brainstorm using miro
+* Recording: https://paypal-my.sharepoint.com/:v:/r/personal/chrichen_paypal_com/Documents/Recordings/Innovation%20Hours%20Intro-20220401_133344-Meeting%20Recording.mp4?csf=1&web=1&e=I8ux5L
+* Miro: https://miro.com/app/board/uXjVOARmrWI=/?invite_link_id=796589896221
+
+
+## Operational Excellence
+
+### Git Conventions 4/5/2022
+* Eric Dou asked me to go over git conventions for the team since we have so many new hires
+* Confluence: https://engineering.paypalcorp.com/confluence/display/~chrichen/Git+Conventions
+* Recording: https://paypal-my.sharepoint.com/:v:/p/bjayakumar/EWbtBT3vLWJBm_1cmb4hRXUBX4Y7gIcU3eTCSSoNtgR2gQ
+
+
 ---
 
 ### Personal projects
