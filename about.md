@@ -287,9 +287,12 @@ This repository was passed on to us from another team, unfortunately most of the
 ## Operational Excellence
 
 ### Git Conventions 4/5/2022
-* Eric Dou asked me to go over git conventions for the team since we have so many new hires
-* Confluence: https://engineering.paypalcorp.com/confluence/display/~chrichen/Git+Conventions
-* Recording: https://paypal-my.sharepoint.com/:v:/p/bjayakumar/EWbtBT3vLWJBm_1cmb4hRXUBX4Y7gIcU3eTCSSoNtgR2gQ
+* Eric Dou asked me to go over git conventions for the Arctic Wolves and Arctic Winders teams since we have so many new hires. 
+  - [Confluence Page](https://engineering.paypalcorp.com/confluence/display/~chrichen/Git+Conventions)
+  - Recording: [Presentation to Arctic Wolves](https://paypal-my.sharepoint.com/:v:/p/bjayakumar/EWbtBT3vLWJBm_1cmb4hRXUBX4Y7gIcU3eTCSSoNtgR2gQ)
+* I cleaned up the page and gave another presentation to Arctic Banes scrum team that I am part of. 
+  - Recording: [Git Conventions and Pull Request Overview](https://paypal-my.sharepoint.com/:v:/r/personal/prachamalla_paypal_com/Documents/Recordings/Git%20Conventions%20and%20Pull%20Request%20Overview-20220407_143417-Meeting%20Recording.mp4?csf=1&web=1&e=SUllLh)
+
 
 
 ---
