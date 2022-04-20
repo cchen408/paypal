@@ -294,11 +294,14 @@ This repository was passed on to us from another team, unfortunately most of the
   - Recording: [Git Conventions and Pull Request Overview](https://paypal-my.sharepoint.com/:v:/r/personal/prachamalla_paypal_com/Documents/Recordings/Git%20Conventions%20and%20Pull%20Request%20Overview-20220407_143417-Meeting%20Recording.mp4?csf=1&web=1&e=SUllLh)
 
 
-
 ---
 
 ### Personal projects
 
-### CryptoPuppies
+### Learn Blockchain With Chris (2022)
+- Teach engineers how to create an NFT project. 
+- [https://hackwithchris.github.io](https://hackwithchris.github.io)
+
+### CryptoPuppies (2017)
 - https://cryptopuppies.me [git](https://github.com/cryptopuppies)
  
