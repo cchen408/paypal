@@ -4,7 +4,7 @@ title: About Christopher Chen
 permalink: /about/
 ---
 
-*Nodejs Developer, Blockchain enthusiast*
+*Javascript, Typescript, Nodejs Developer, Blockchain Developer, Crypto For Financial Freedom*
 
 ## Merchant Services Engineer
 
