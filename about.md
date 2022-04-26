@@ -271,8 +271,14 @@ This repository was passed on to us from another team, unfortunately most of the
   - The repo was really difficult to navigate as there was no proper conventions set. It slowed the team down drastically.
 * Checkout Insights fix
   - Work with GDS (Karteek Chada) to get test data
-  - Work with backend team (Santhosh Padinjarepu spadinjarepurakk@paypal.com) to verify fix
+  - Work with backend team (Santhosh Padinjarepu spadinjarepurakk@paypal.com) to problem solve
   - 
+  
+# April 2022
+Was asked to be scrum master for Arctic Banes. I'm still debating if I have the capacity.
+
+
+
 
 ## Innovation Hours
 
