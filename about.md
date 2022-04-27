@@ -275,7 +275,13 @@ This repository was passed on to us from another team, unfortunately most of the
   - 
   
 # April 2022
-Was asked to be scrum master for Arctic Banes. I'm still debating if I have the capacity.
+
+## Checkout Insights
+- was finally able to resolve, the issue was actually not with either teams but with datastreamserv 
+
+## Arctic Banes
+- Take over as scrum master for arctic banes.  
+- Start to ramp up on all of our tracks.
 
 
 
