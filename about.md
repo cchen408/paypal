@@ -240,7 +240,6 @@ Deliver a new consumer for a kafka topic that will call a service to send out Pa
 ### Atmosphere Braintree
 * Unified Token Login
 
-
 # Sept 2020 - 2021
 
 ## Medical Leave
@@ -254,7 +253,7 @@ Deliver a new consumer for a kafka topic that will call a service to send out Pa
 
 # Feb 2022
 
-## Insights and Custom Reporting
+## Insights and Custom Reporting  
 
 ### InsightsNodeWeb
 This repository was passed on to us from another team, unfortunately most of the people who created this service are no longer with us.
@@ -274,16 +273,36 @@ This repository was passed on to us from another team, unfortunately most of the
   - Work with backend team (Santhosh Padinjarepu spadinjarepurakk@paypal.com) to problem solve
   - 
   
-# April 2022
+# April 2022  
 
-## Checkout Insights
-- was finally able to resolve, the issue was actually not with either teams but with datastreamserv 
+## Checkout Insights  
+- was finally able to resolve, the issue was actually not with either teams but with the actual data 
 
-## Arctic Banes
+## Arctic Banes  
 - Take over as scrum master for arctic banes.  
-- Start to ramp up on all of our tracks.
+- Start to ramp up on all of our tracks.  
+  - Track 1 includes insightsnodeweb and self serve data analytics on PayPal side and some light front end work for BT side
+  - Track 2 includes Custom Reporting, Gateway Stability
+- Begin to have 1-1 with all members of Arctic Banes scrum team.
 
+# May 2022
 
+- Finally able to meet all team members face to face
+- We currently have 3 scrum teams under Dinny and some of them were having issues with the scrum process
+- Finally close out the checkout insights page issue
+- After running a few successful scrums and getting the processes setup am going to slow down and concentrate more on getting my own tassk completed
+
+### Insights Track
+- Work with product (Abhijeet Bhatt) 
+- 3 tracks for insights
+  1. Admin SSO Integration 
+  2. Backend Overhaul - Move DataStore from Elastic Search to Big Query
+  3. Frontend Overhaul - Revamp the Insights Application
+  
+- Initially we were just going to be owning the front end portion but now we are going to be taking complete ownership from E2E
+
+  
+#### Revamping Insights Application
 
 
 ## Innovation Hours
@@ -295,7 +314,6 @@ This repository was passed on to us from another team, unfortunately most of the
 * Recording: https://paypal-my.sharepoint.com/:v:/r/personal/chrichen_paypal_com/Documents/Recordings/Innovation%20Hours%20Intro-20220401_133344-Meeting%20Recording.mp4?csf=1&web=1&e=I8ux5L
 * Miro: https://miro.com/app/board/uXjVOARmrWI=/?invite_link_id=796589896221
 
-
 ## Operational Excellence
 
 ### Git Conventions 4/5/2022
@@ -305,7 +323,9 @@ This repository was passed on to us from another team, unfortunately most of the
 * I cleaned up the page and gave another presentation to Arctic Banes scrum team that I am part of. 
   - Recording: [Git Conventions and Pull Request Overview](https://paypal-my.sharepoint.com/:v:/r/personal/prachamalla_paypal_com/Documents/Recordings/Git%20Conventions%20and%20Pull%20Request%20Overview-20220407_143417-Meeting%20Recording.mp4?csf=1&web=1&e=SUllLh)
 
-
+### Scrum Excellence
+* Wrote up a page for our three scrum teams.
+  - [Confluence Page](https://engineering.paypalcorp.com/confluence/display/~chrichen/Scrum+Excellence)
 ---
 
 ### Personal projects
