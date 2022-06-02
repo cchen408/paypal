@@ -292,6 +292,14 @@ This repository was passed on to us from another team, unfortunately most of the
 - Finally close out the checkout insights page issue
 - After running a few successful scrums and getting the processes setup am going to slow down and concentrate more on getting my own tassk completed
 
+# June 2022
+
+- Went over Scrum Excellence with Dinny's Team (June 1, 2022)
+
+- ES Upgrade 2.4 to v6
+- Took ownership of insights E2E
+- Began working on new graphQL midtier Node.js TS service called insightsapinodeserv 
+
 ### Insights Track
 - Work with product (Abhijeet Bhatt) 
 - 3 tracks for insights
@@ -318,14 +326,15 @@ This repository was passed on to us from another team, unfortunately most of the
 
 ### Git Conventions 4/5/2022
 * Eric Dou asked me to go over git conventions for the Arctic Wolves and Arctic Winders teams since we have so many new hires. 
-  - [Confluence Page](https://engineering.paypalcorp.com/confluence/display/~chrichen/Git+Conventions)
+  - [Confluence Page](https://engineering.paypalcorp.com/confluence/display/CommerceServices/Git+Conventions)
   - Recording: [Presentation to Arctic Wolves](https://paypal-my.sharepoint.com/:v:/p/bjayakumar/EWbtBT3vLWJBm_1cmb4hRXUBX4Y7gIcU3eTCSSoNtgR2gQ)
 * I cleaned up the page and gave another presentation to Arctic Banes scrum team that I am part of. 
   - Recording: [Git Conventions and Pull Request Overview](https://paypal-my.sharepoint.com/:v:/r/personal/prachamalla_paypal_com/Documents/Recordings/Git%20Conventions%20and%20Pull%20Request%20Overview-20220407_143417-Meeting%20Recording.mp4?csf=1&web=1&e=SUllLh)
 
 ### Scrum Excellence
 * Wrote up a page for our three scrum teams.
-  - [Confluence Page](https://engineering.paypalcorp.com/confluence/display/~chrichen/Scrum+Excellence)
+  - [Confluence Page](https://engineering.paypalcorp.com/confluence/display/CommerceServices/Scrum+Excellence)
+  - Presented to all 3 scrum teams under Dinny on June 1, 2022. Link to recording is in the confluence page.
 ---
 
 ### Personal projects
