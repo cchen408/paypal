@@ -309,8 +309,21 @@ This repository was passed on to us from another team, unfortunately most of the
   
 - Initially we were just going to be owning the front end portion but now we are going to be taking complete ownership from E2E
 
-  
 #### Revamping Insights Application
+- Begin to take ownership of [InsightsApiNodeServ](https://github.paypal.com/Customers-R/insightsapinodeserv) a GraphQL service that will part of the UI overhaul
+- Work closely with Credit Team to understand their requirements along with bring together those who have a stake in insights. 
+
+# July 2022
+
+- ES Migration
+  - Work closely with Jerry Ma (junma1@paypal.com) to test Elastic Search Indices for migration to version 6.
+  - Begin migration of two indices in July after preparing in June
+  - Continue to get familiar with insights code and document both in confluence and in Readme. [PR](https://github.paypal.com/Customers-R/insightsnodeweb/pull/1587) | [Confluence](https://engineering.paypalcorp.com/confluence/display/CommerceServices/Insight+Page+Availability+Criteria)
+  
+- Complete Insights SSO Integration: [Release PR](https://github.paypal.com/Customers-R/insightsnodeweb/pull/1588)
+  - Work very closely with Madan Deivasigamani (mdeivasigamani@paypal.com).
+  - Ensure that we do not copy paste legacy code and that we use modern javascript practices
+  - Ensure documentation of changes also so that less KT is needed and also ensure smooth transition
 
 
 ## Innovation Hours
@@ -335,6 +348,7 @@ This repository was passed on to us from another team, unfortunately most of the
 * Wrote up a page for our three scrum teams.
   - [Confluence Page](https://engineering.paypalcorp.com/confluence/display/CommerceServices/Scrum+Excellence)
   - Presented to all 3 scrum teams under Dinny on June 1, 2022. Link to recording is in the confluence page.
+
 ---
 
 ### Personal projects
