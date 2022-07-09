@@ -329,11 +329,9 @@ This repository was passed on to us from another team, unfortunately most of the
 ## Innovation Hours
 
 ### Introduction 4/1/2022
-* Restarted Innovation hours for our team. 
-* https://engineering.paypalcorp.com/confluence/display/~chrichen/Innovation+Hours
-* Had Mike Todasco come do an intro and also lead a brainstorm using miro
-* Recording: https://paypal-my.sharepoint.com/:v:/r/personal/chrichen_paypal_com/Documents/Recordings/Innovation%20Hours%20Intro-20220401_133344-Meeting%20Recording.mp4?csf=1&web=1&e=I8ux5L
-* Miro: https://miro.com/app/board/uXjVOARmrWI=/?invite_link_id=796589896221
+* Restarted Innovation hours for our team. [Confluence Page](https://engineering.paypalcorp.com/confluence/display/~chrichen/Innovation+Hours)
+* Had Mike Todasco come do an intro and also lead a brainstorm using miro. [Recording](https://paypal-my.sharepoint.com/:v:/r/personal/chrichen_paypal_com/Documents/Recordings/Innovation%20Hours%20Intro-20220401_133344-Meeting%20Recording.mp4?csf=1&web=1&e=I8ux5L) |
+[Miro](https://miro.com/app/board/uXjVOARmrWI=/?invite_link_id=796589896221)
 
 ## Operational Excellence
 
@@ -345,8 +343,7 @@ This repository was passed on to us from another team, unfortunately most of the
   - Recording: [Git Conventions and Pull Request Overview](https://paypal-my.sharepoint.com/:v:/r/personal/prachamalla_paypal_com/Documents/Recordings/Git%20Conventions%20and%20Pull%20Request%20Overview-20220407_143417-Meeting%20Recording.mp4?csf=1&web=1&e=SUllLh)
 
 ### Scrum Excellence
-* Wrote up a page for our three scrum teams.
-  - [Confluence Page](https://engineering.paypalcorp.com/confluence/display/CommerceServices/Scrum+Excellence)
+* Wrote up a page for our three scrum teams. [Confluence Page](https://engineering.paypalcorp.com/confluence/display/CommerceServices/Scrum+Excellence)
   - Presented to all 3 scrum teams under Dinny on June 1, 2022. Link to recording is in the confluence page.
 
 ---
