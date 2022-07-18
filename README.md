@@ -1,3 +1,10 @@
+# Chris @ PayPal
+This github page documents my journey at PayPal. 
+
+You can find most of my contributions at PayPal in chronological order here.
+
+---
+
 # minima
 
 Welcome to your new Jekyll theme! In this directory, you'll find the files you need to be able to package up your theme into a gem. Put your layouts in `_layouts`, your includes in `_includes`, your sass files in `_sass` and any other assets in `assets`.
